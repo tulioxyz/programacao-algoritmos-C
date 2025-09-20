@@ -1,25 +1,28 @@
-# Listas do 1º Período - Análises e Desenvolvimento de Sistemas
+# ADS-LearningHub
 
-Este repositório tem como objetivo **armazenar todas as listas de exercícios realizadas durante o 1º período** do curso de **Análise e Desenvolvimento de Sistemas (ADS)**, na disciplina **Programação e Algoritmos em Linguagem C**.
+Bem-vindo ao meu repositório de aprendizado de ADS!  
+Aqui estão organizadas todas as atividades, exercícios e projetos que desenvolvi ao longo dos 6 períodos da faculdade de Análise e Desenvolvimento de Sistemas. (2025-2027)
 
----
+## Estrutura do repositório
+
+Cada linguagem ou tecnologia tem sua própria pasta, facilitando a navegação:
+
+- `c/` – atividades em C
+- `java/` – projetos e práticas em Java
 
 ## Objetivo
 
-- Manter um **histórico organizado** dos exercícios realizados.  
-- Demonstrar a **evolução do aprendizado** durante o 1º período da disciplina.  
+Este repositório serve como **central de aprendizado**, onde posso:
 
----
+- Registrar meus exercícios e projetos
+- Testar novos conceitos
+- Revisitar conteúdos passados
+- Organizar meus aprendizados de forma estruturada
 
-## Observações
+## Como usar
 
-- Todos os códigos estão em **linguagem C**.  
-- Cada pasta contém os arquivos `.c` referentes aos exercícios daquela lista, e um `README.md` opcional explicando cada lista em mais detalhes.  
-- Este repositório é apenas para **armazenamento e consulta pessoal/educacional**.
+Clone o repositório:
+```bash
+git clone https://github.com/seu-usuario/ADS-LearningHub.git
 
----
-
-## Autor
-
-- Tulio Rodrigues Silva
 
