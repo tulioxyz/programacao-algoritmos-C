@@ -1,8 +1,7 @@
 # CodeJourney
 
 Bem-vindo ao meu repositório de aprendizado!  
-Aqui estão organizadas todas as atividades, exercícios e projetos que desenvolvi ao longo dos 6 períodos da faculdade de Análise e Desenvolvimento de Sistemas. 
-(2025-2027)
+Reúno aqui todas as atividades e exercícios desenvolvidos ao longo do curso de Análise e Desenvolvimento de Sistemas e também alguns estudos paralelos.
 
 ## Estrutura do repositório
 
