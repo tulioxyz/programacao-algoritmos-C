@@ -24,6 +24,6 @@ Este repositório serve como **central de aprendizado**, onde posso:
 
 Clone o repositório:
 ```bash
-git clone https://github.com/tulioxyz/CodeJourney.git)
+git clone https://github.com/tulioxyz/CodeJourney.git
 
 
