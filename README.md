@@ -4,7 +4,22 @@ Este repositório tem como objetivo **armazenar todas as listas de exercícios r
 
 ---
 
-## Estrutura do Repositório
+## Objetivo
 
-Cada lista de exercícios está organizada em pastas separadas, facilitando a navegação e consulta:
+- Manter um **histórico organizado** dos exercícios realizados.  
+- Demonstrar a **evolução do aprendizado** durante o 1º período da disciplina.  
+
+---
+
+## Observações
+
+- Todos os códigos estão em **linguagem C**.  
+- Cada pasta contém os arquivos `.c` referentes aos exercícios daquela lista, e um `README.md` opcional explicando cada lista em mais detalhes.  
+- Este repositório é apenas para **armazenamento e consulta pessoal/educacional**.
+
+---
+
+## Autor
+
+- Tulio Rodrigues Silva
 
