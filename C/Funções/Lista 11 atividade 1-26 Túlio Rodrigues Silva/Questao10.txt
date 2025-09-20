@@ -1,0 +1,12 @@
+10.Analise o seguinte código. Há algum erro? Justifique.
+int valores[5];
+for (int i = 1; i <= 5; i++) {
+scanf("%d", &valores[i]);
+}
+
+--------------------------------------------------------------
+
+O for ta iniciando a contagem a apartir do 1, mas os vetores guardam
+valores da casa zero até uma casa menor do seu tamanho, exemplo(vetor
+tamanho 10), o vetor terá casas do 0 a 9, no código mostrado, a casa 0
+não estará recebendo nenhum valor. O correto seria for(int i=0; i<5; i++).

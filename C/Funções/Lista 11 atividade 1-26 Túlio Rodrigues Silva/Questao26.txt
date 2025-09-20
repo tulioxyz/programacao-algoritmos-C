@@ -1,0 +1,17 @@
+26. O que está errado neste código? Corrija:
+void imprimirValores(int *v) {
+for (int i = 0; i <= 5; i++) {
+printf("%d\n", *(v + i));
+}
+}
+int main() {
+int vet[5] = {1, 2, 3, 4, 5};
+imprimirValores(vet);
+return 0;
+}
+----------------------------------------------------------------------------------
+
+O erro no código está na função imprimirValores, onde o loop for tenta acessar uma
+posição inválida do array. O array vet tem 5 elementos, com índices de 0 a 4. No 
+entanto, o loop for (int i = 0; i <= 5; i++) tenta acessar o índice 5, que está 
+fora dos limites do array. Para corrigir, a condição do loop deve ser i < 5.

@@ -1,0 +1,12 @@
+15.Há erro neste trecho? Por quê?
+char nome[5] = "Pedro";
+printf("%s", nome);  
+
+---------------------------------------------------------------------
+
+Sim, o vetor esta indicando 5 caracteres, mas todo vetor tem automaticamente
+um digito "\0" que serve para indicar o fim do vetor, como o vetor e de 5 
+caracteres  o valor atribuido a ele "Pedro" também tem 5 caracteres, não sobra
+espaço para o digito "\0", gerando um erro ao imprimir, no meu compilador em 
+específico teve a seguinte saida "PedroÇ", o correto seria atribuir um vetor 
+com 6 espaços. char nome[6] = "Pedro"

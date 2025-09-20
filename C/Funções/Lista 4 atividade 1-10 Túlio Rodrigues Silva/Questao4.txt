@@ -1,0 +1,17 @@
+4. Indique se as seguintes afirmações são verdadeiras (V) ou falsas (F):
+
+a. (F) Uma função pode devolver mais de um valor.
+b. (V) Uma função pode não ter parâmetros.
+c. (F) Toda função deve retornar um inteiro.
+d. (F) Os parâmetros de uma função podem ser do tipo void.
+e. (V) A instrução return finaliza a execução de uma função.
+f. (V) Variáveis locais podem ter o mesmo nome que os parâmetros.
+g. (F) O return só finaliza a função se estiver no fim do bloco.
+h. (F) return em qualquer função finaliza o programa.
+i. (V) return em main finaliza o programa.
+j. (F) O nome de uma função é opcional.
+k. (V) Parâmetros de função são opcionais.
+l. (F) Uma função deve realizar o máximo de tarefas possível.
+m. (F) Funções devem ter no máximo 10 linhas.
+n. (F) O nome da função deve ter no máximo 6 letras.
+o. (V) Não se pode usar palavras reservadas como nome de função.

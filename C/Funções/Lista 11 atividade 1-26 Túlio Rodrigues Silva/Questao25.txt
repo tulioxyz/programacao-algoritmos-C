@@ -1,0 +1,17 @@
+25.Simule a execução da seguinte função usando ponteiros com strings:
+void modificar(char *str) {
+while (*str != '\0') {
+if (*str == 'a') *str = '@';
+str++;
+}
+}
+int main() {
+char palavra[] = "banana";
+modificar(palavra);
+printf("%s", palavra);
+return 0;
+}
+-----------------------------------------------------------------------------
+Pergunta: O que será impresso? 
+
+b@n@n@

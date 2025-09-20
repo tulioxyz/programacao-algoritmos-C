@@ -1,0 +1,8 @@
+20.Qual erro ocorre no código abaixo? Corrija ou sugira modificações.
+int *p;
+*p = 10;
+printf("%d", *p);
+
+----------------------------------------------------------------------------------
+O erro é um erro de segmentação porque o ponteiro p não está para apontar para
+ um local de memória válido antes de ser desreferenciado.

@@ -1,0 +1,15 @@
+5. O código abaixo apresenta um erro. Identifique e corrija:
+int imprimirMensagem() {
+    printf("Olá, mundo!\n");
+}
+
+int main() {
+    imprimirMensagem();
+    return 0;
+}
+
+---------------------------------------------------------------------
+
+A função int tem que retornar um valor, ela contém um printf ao qual não
+vai retornar nada ao ser chamada daquela forma na main, o correto seria 
+utilizar uma função void, assim o código funcionaria perfeitamente.

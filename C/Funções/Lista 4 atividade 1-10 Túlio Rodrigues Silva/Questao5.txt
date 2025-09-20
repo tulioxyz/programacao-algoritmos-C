@@ -1,0 +1,8 @@
+determine a saída para (Teste de Mesa):
+
+    ENTRADA |  SAIDA
+a) Pong(3) - (Nenhuma)
+b) Ping(-4) - "Ja passei em C"
+c) Ping(25) - (Nenhuma)
+d) Pong(2) - 0 "Vou sair"
+e) Pong(1) - -1 "Vou Sair"

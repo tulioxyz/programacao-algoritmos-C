@@ -1,0 +1,16 @@
+19.Preencha a tabela abaixo simulando o comportamento dos ponteiros:
+int x = 3, y = 7;
+int *p = &x;
+*p = *p + 2;
+p = &y;
+*p = *p - 1;
+
+após *p = *p + 2
+x: 5
+y: 7
+*p: 5
+
+após *p = *p - 1
+x: 5
+y: 6
+*p: 6

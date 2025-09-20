@@ -1,0 +1,9 @@
+14.O que será impresso?
+char nome[10] = "Ana";
+printf("%s", &nome[1]);
+
+-----------------------------------------------------
+Será impresso "na", o &nome[1] indica a posição de memoria 
+daquele valor, quando usado o printf ira imprimir tudo aquilo
+que vem após aquele endereço, ou seja, naquele endereço se encontra
+o 'n', e o que vem após é o 'a', assim o resutado é "na".
