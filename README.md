@@ -1,6 +1,6 @@
-# ADS-LearningHub
+# CodeJourney
 
-Bem-vindo ao meu repositório de aprendizado de ADS!  
+Bem-vindo ao meu repositório de aprendizado!  
 Aqui estão organizadas todas as atividades, exercícios e projetos que desenvolvi ao longo dos 6 períodos da faculdade de Análise e Desenvolvimento de Sistemas. (2025-2027)
 
 ## Estrutura do repositório
