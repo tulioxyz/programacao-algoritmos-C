@@ -1,7 +1,8 @@
 # CodeJourney
 
 Bem-vindo ao meu repositório de aprendizado!  
-Aqui estão organizadas todas as atividades, exercícios e projetos que desenvolvi ao longo dos 6 períodos da faculdade de Análise e Desenvolvimento de Sistemas. (2025-2027)
+Aqui estão organizadas todas as atividades, exercícios e projetos que desenvolvi ao longo dos 6 períodos da faculdade de Análise e Desenvolvimento de Sistemas. 
+(2025-2027)
 
 ## Estrutura do repositório
 
@@ -23,6 +24,6 @@ Este repositório serve como **central de aprendizado**, onde posso:
 
 Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/ADS-LearningHub.git
+git clone https://github.com/tulioxyz/CodeJourney.git)
 
 
