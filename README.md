@@ -1,28 +1,20 @@
-# CodeJourney
+# Bem-vindo ao repositório de Programação e Algoritmos em C!
 
-Bem-vindo ao meu repositório de aprendizado!  
-Reúno aqui todas as atividades e exercícios desenvolvidos ao longo do curso de Análise e Desenvolvimento de Sistemas e também alguns estudos paralelos.
+Reúno aqui todas as atividades e exercícios desenvolvidos durante a disciplina, com foco em lógica de programação utilizando a linguagem C.
 
-## Estrutura do repositório
+## 📂 Estrutura do repositório
+As atividades estão organizadas por listas e conteúdos
 
-Cada linguagem ou tecnologia tem sua própria pasta, facilitando a navegação:
+## 🎯 Objetivo
+Este repositório tem como objetivo:
 
-- `c/` – atividades em C
-- `java/` – projetos e práticas em Java
+- Registrar os exercícios desenvolvidos na disciplina  
+- Praticar lógica de programação  
+- Consolidar conhecimentos fundamentais  
+- Servir como material de revisão futura  
 
-## Objetivo
+## 🚀 Tecnologias utilizadas
+- C
 
-Este repositório serve como **central de aprendizado**, onde posso:
-
-- Registrar meus exercícios e projetos
-- Testar novos conceitos
-- Revisitar conteúdos passados
-- Organizar meus aprendizados de forma estruturada
-
-## Como usar
-
-Clone o repositório:
-```bash
-git clone https://github.com/tulioxyz/CodeJourney.git
-
-
+## 👨‍💻 Autor
+Tulio Rodrigues Silva
